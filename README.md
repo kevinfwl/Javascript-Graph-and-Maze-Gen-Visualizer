@@ -68,7 +68,8 @@ Include the following tags in your html:
 <script src="graphUI.js"></script>
 ```
 
-Result:
+#### Result
+
 ![Alt Text](https://media.giphy.com/media/L3FK7Kq6IzFNsX5s7U/giphy.gif)
 
 
