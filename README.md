@@ -58,7 +58,7 @@ let shortestPath2 = AStar(S, E)
 Currently the visualizer only runs in the context of maze generation, more support coming soon...
 (set canvas as size of the window)
 
-Include the following script:
+Include the following tags in your html:
 ```html
 <div id="alg-description">
     <div id="alg-description-title"></div>
@@ -69,7 +69,7 @@ Include the following script:
 ```
 
 Result:
-![Alt Text](https://gph.is/g/4VxqPGP)
+![Alt Text](https://media.giphy.com/media/L3FK7Kq6IzFNsX5s7U/giphy.gif)
 
 
 
