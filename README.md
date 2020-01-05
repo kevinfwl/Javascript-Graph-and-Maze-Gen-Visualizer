@@ -70,7 +70,7 @@ Include the following tags in your html:
 
 #### Result
 
-![Alt Text](https://media.giphy.com/media/L3FK7Kq6IzFNsX5s7U/giphy.gif)
+![Alt Text](animation.gif)
 
 
 
