@@ -1,6 +1,6 @@
 # Javascript-Graph-and-Maze-Gen-Visualizer
 
-A light weight library for working with graphs and graph. Also contains source for visualizing 
+A light weight library for working with graphs and graph visualization. Also contains source for visualizing 
 The following algorithms are implemented:
 
 #### Min spanning tree:
